@@ -1,4 +1,4 @@
 # PENDAX-SDK
 Installation:
-``` npm install compendiumfi/pendax ```
+``` npm i @compendiumfi/pendax ```
 

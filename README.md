@@ -1,6 +1,6 @@
 # PENDAX SOURCE DEVELOPER KIT (SDK)
 
-A Javascript library allowing simplified interaction with advanced commands on a growing list of cryptocurrency exchanges and financial applications. Bult and maintained by the team at [Compendium](https://compendium.finance).
+A Javascript library allowing simplified interaction with advanced commands on a growing list of cryptocurrency exchanges and financial applications. Built and maintained by the team at [Compendium](https://compendium.finance).
 
 Simplified exchange commands and interoperability. Our underlying high-frequency trading engine, PENDAX, is available for all developers, traders, financial analysts, and data scientists to build custom integrations on. It provides simple access to a variety of different use cases revolving around trading and data deployments.
 

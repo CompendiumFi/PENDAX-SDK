@@ -86,32 +86,6 @@ Functions within the PENDAX SDK are separate into two main core groups: "Common 
 Our team has done an excellent job in aggregating what we will refer to as "Common Functions" for a plethora of integrated platforms. Common functions are widely used calls available on different platforms and will work by just changing the "exchange" parameter and making edits to API credential layouts (depending on the selected exchange).
 Examples of common functions include calls like placing trade orders or getting account balances.
 
-*An example of common function formatting*
-
-``` const exchange = createExchange({
-  exchange: "ftx",
-  authenticate: true,
-  key: "123455676890",
-  secret: "abcdefghijk",
-  subaccount: "subaccountname",
-  label: "ftx",   // any value
-});
-// If no param passed, returns balances of all coins/assets, etc.
-// To filter to specific assets, pass an object with a property 'tokens',
-// where tokens is an array of asset names (see example)
-const result = 
-    try {
-          return await exchange.getBalances(
-            {
-              tokens: ['BTC', 'USD']
-            }
-          )
-    }
-    catch (err) {
-      console.log(err);
-    }
-```
-
 By normalizing these commands developers can work in a more efficient manner while customizing integrations or code bases for multiple or different supported platforms.
 
 Documentation relating to "Common Functions" can be found [here](https://docs.compendium.finance/pendax/using-pendax-sdk).

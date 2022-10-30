@@ -1,4 +1,4 @@
-# PENDAX SOURCE DEVELOPER KIT (SDK)
+# PENDAX SOFTWARE DEVELOPMENT KIT (SDK)
 
 A Javascript library allowing simplified interaction with advanced commands on a growing list of cryptocurrency exchanges and financial applications. Built and maintained by the team at [Compendium](https://compendium.finance).
 

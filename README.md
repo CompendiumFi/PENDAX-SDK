@@ -1,8 +1,12 @@
 # PENDAX SOFTWARE DEVELOPMENT KIT (SDK)
 
-A Javascript library allowing simplified interaction with advanced commands on a growing list of cryptocurrency exchanges and financial applications. Built and maintained by the team at [Compendium](https://compendium.finance).
+[![npm](https://img.shields.io/npm/v/@compendiumfi/pendax.svg)](https://www.npmjs.com/package/@compendiumfi/pendax)  ![Discord](https://img.shields.io/discord/846967032288509953?label=Discord)  ![GitHub Repo stars](https://img.shields.io/github/stars/CompendiumFi/PENDAX-SDK?style=social)
 
-Simplified exchange commands and interoperability. Our underlying high-frequency trading engine, PENDAX, is available for all developers, traders, financial analysts, and data scientists to build custom integrations on. It provides simple access to a variety of different use cases revolving around trading and data deployments.
+Javascript SDK for trading on cryptocurrency exchanges like FTX, OKX, Bybit, and more. Supports API data feeds and WebSocket. Built and maintained by the team at [Compendium](https://compendium.finance).
+
+### [Installation](#installation) · [Features](#features) · [Documentation](#documentation) · [GitBook](https://docs.compendium.finance/pendax/what-is-pendax) · [Compendium](https://compendium.finance) · [Social](#social) 
+
+PENDAX provides simplified exchange commands and interoperability. Our underlying high-frequency trading engine, PENDAX, is available for all developers, traders, financial analysts, and data scientists to build custom integrations on. It provides simple access to a variety of different use cases revolving around trading and data deployments.
 
 Visit The [Official PENDAX Website](https://pendax.pro).
 ## Installation
@@ -15,10 +19,13 @@ Install The PENDAX SDK
     
 ## Current Supported Exchange Platforms
 
-- [FTX International](https://ftx.com/referrals#a=cmfi)
-- [FTX.US](https://ftx.us/home/#a=cmfi)
-- [OKX (Formerly OKex)](https://www.okx.com/join/COMPENDIUM)
-- [ByBit](https://www.bybit.com/en-US/invite?ref=LPMYYV) - *Partially Deployed*
+| Logo | Exchange | PENDAX ID | Integration Status | Exchange Functions |
+| ---- | -------- | --------- | ------------------ | ------------------ |
+| ![FTX-PENDAX-TRADING-DEVELOPER](https://user-images.githubusercontent.com/36686278/199346046-b38a8ad5-2eb3-4e34-81ae-d191605166e6.png) | [FTX International](https://ftx.com/referrals#a=cmfi) | ftx | 🟢 Integrated | [View Documentation](https://docs.compendium.finance/pendax/using-pendax-sdk/ftx-functions) |
+| ![FTXUS-PENDAX-TRADING-DEVELOPER](https://user-images.githubusercontent.com/36686278/199346914-63a92825-1668-4e9e-84b8-359f1e3b1f77.png) | [FTX US](https://ftx.us/home/#a=cmfi) | ftxus | 🟢 Integrated | [View Documentation](https://docs.compendium.finance/pendax/using-pendax-sdk/ftx-us-functions) |
+| ![OKX-PENDAX-TRADING-DEVELOPER](https://user-images.githubusercontent.com/36686278/199347395-cfa4ada1-64a9-4e19-a4d5-1821d4a0c0ac.png) | [OKX (Formerly OKex)](https://www.okx.com/join/COMPENDIUM) | okx | 🟢 Integrated | [View Documentation](https://docs.compendium.finance/pendax/using-pendax-sdk/okx-functions) |
+| ![Bybit-PENDAX-TRADING-DEVELOPER](https://user-images.githubusercontent.com/36686278/199347652-d196703c-103d-4060-b23d-7f4534e03057.png) | [ByBit](https://www.bybit.com/en-US/invite?ref=LPMYYV) | bybit | 🟡 Partial Integration | [View Documentation](https://docs.compendium.finance/pendax/using-pendax-sdk/bybit-functions) |
+
 
 #### Integration Roadmap Includes: 
 Binance, Binance US, BitGet, BitMex, Coinbase Pro, Crypto.com, Gate.io, Huobi, Kraken, Kucoin, MEXC, & More.
@@ -75,8 +82,8 @@ Authorized commands provide the ability to interact with trade orders, account d
 - Custom low-latency command-line interfaces (CLI)
 - Advanced trading strategy indicators
 - Tax Reporting Software
-## Documentation
 
+## Documentation
 
 Full instructions for utilizing the PENDAX SDK and tooling can be found by visiting the [Documentation](https://docs.compendium.finance/pendax/using-pendax-sdk).
 
@@ -127,7 +134,7 @@ The PENDAX SDK/API's are built and maintained by the team at Compendium (Formerl
 - Telegram: https://t.me/CompendiumFinanceOfficial 
 - Email: Support@Compendium.Finance
 
-### Social Pages
+### Social
 
 - Compendium Twitter: https://twitter.com/CompendiumFi
 - Pendax Twitter: https://twitter.com/PendaxPro 

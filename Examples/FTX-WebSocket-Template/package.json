@@ -1,7 +1,7 @@
 {
-  "name": "okx-websocket-template",
+  "name": "ftx-websocket-template",
   "version": "1.0.0",
-  "description": "https://github.com/CompendiumFi/PENDAX-SDK",
+  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {

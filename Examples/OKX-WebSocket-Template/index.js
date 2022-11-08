@@ -1,4 +1,4 @@
-import { OkxSocket } from "../PENDAX/package/sockets/okxsocket.js"
+import { OkxSocket } from "./node_modules/@compendiumfi/pendax/sockets/okxsocket.js"
 // Standalone implementation of OKX sockets
 
 let okxSocket;

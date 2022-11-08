@@ -4,7 +4,7 @@ https://github.com/CompendiumFi/PENDAX-SDK
 install required packages with ```npm install```
 
 
-run with ```npm index.js```
+run with ```node index.js```
 
 ## This application is a fully functional template for okx websockets utilizing PENDAX-SDK
 

@@ -1,0 +1,14 @@
+{
+  "name": "okx-websocket-template",
+  "version": "1.0.0",
+  "description": "Fully functional websocket connection template built with PENDAX-SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Traderjoe155",
+  "license": "ISC",
+  "dependencies": {
+    "pendax": "github:compendiumfi/pendax"
+  }
+}

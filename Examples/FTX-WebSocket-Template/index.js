@@ -4,7 +4,7 @@ import { FtxSocket } from "./node_modules/@compendiumfi/pendax/sockets/ftxsocket
 let ftxSocket;
 let subscriptions = {}
 // Create config object - we will only use this object once - when the socket is originally started
-const leaderOneSocketConfig = {
+const SocketConfigOne = {
     name: '',
     key: "",
     secret: "",
@@ -125,5 +125,5 @@ function ftxOnClose(code, msg, socketInfo){
 }
 
 // start it up
-startSocket(leaderOneSocketConfig)
+startSocket(SocketConfigOne)
 

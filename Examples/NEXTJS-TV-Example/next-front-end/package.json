@@ -1,0 +1,30 @@
+{
+  "name": "pendax-tv-example",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@compendiumfi/pendax": "^1.1.5",
+    "@emotion/react": "^11.10.5",
+    "@emotion/server": "^11.10.0",
+    "@mantine/core": "^5.9.2",
+    "@mantine/hooks": "^5.9.2",
+    "@mantine/next": "^5.9.2",
+    "@nextui-org/react": "^1.0.0-beta.10",
+    "@react-aria/ssr": "^3.4.0",
+    "axios": "^1.2.1",
+    "next": "~13.0.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.11.11",
+    "@types/react": "18.0.26",
+    "typescript": "4.9.4"
+  }
+}

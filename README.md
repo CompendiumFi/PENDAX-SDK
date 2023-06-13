@@ -23,7 +23,7 @@ Install The PENDAX SDK
 | ---- | -------- | --------- | ------------------ | ---------------- | ------------------ |
 | ![OKX-PENDAX-TRADING-DEVELOPER](https://user-images.githubusercontent.com/36686278/199347395-cfa4ada1-64a9-4e19-a4d5-1821d4a0c0ac.png) | [OKX (Formerly OKex)](https://www.okx.com/join/COMPENDIUM) | okx | 🟢 Integrated | 🟢🟢🟢🟢🟢 | [View Documentation](https://docs.compendium.finance/pendax/using-pendax-sdk/okx-functions) |
 | ![BitGet-PENDAX-TRADING-DEVELOPER](https://user-images.githubusercontent.com/36686278/205699916-169bf2eb-c731-44cb-b4ac-5e44a8b9b932.png) | [Bitget](https://partner.bitget.com/bg/gacm69031670266129840) | bitget | 🟢 Integrated | 🟢🟢🟢🟢🟢 | [View Documentation](https://docs.compendium.finance/pendax/using-pendax-sdk/bitget-functions) |
-| ![Bybit-PENDAX-TRADING-DEVELOPER](https://user-images.githubusercontent.com/36686278/199347652-d196703c-103d-4060-b23d-7f4534e03057.png) | [ByBit](https://www.bybit.com/en-US/invite?ref=LPMYYV) | bybit | 🟡 Partial Integration | 🟢🟢🟢⚫⚫ | [View Documentation](https://docs.compendium.finance/pendax/using-pendax-sdk/bybit-functions) |
+| ![Bybit-PENDAX-TRADING-DEVELOPER](https://user-images.githubusercontent.com/36686278/199347652-d196703c-103d-4060-b23d-7f4534e03057.png) | [ByBit](https://www.bybit.com/en-US/invite?ref=LPMYYV) | bybit | 🟢 Integrated | 🟢🟢🟢🟢🟢 | [View Documentation](https://docs.compendium.finance/pendax/using-pendax-sdk/bybit-functions) |
 
 
 ### Integration Roadmap Includes: 

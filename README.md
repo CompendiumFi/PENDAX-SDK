@@ -23,20 +23,16 @@ Install The PENDAX SDK
 | ---- | -------- | --------- | ------------------ | ---------------- | ------------------ |
 | ![OKX-PENDAX-TRADING-DEVELOPER](https://user-images.githubusercontent.com/36686278/199347395-cfa4ada1-64a9-4e19-a4d5-1821d4a0c0ac.png) | [OKX (Formerly OKex)](https://www.okx.com/join/COMPENDIUM) | okx | 🟢 Integrated | 🟢🟢🟢🟢🟢 | [View Documentation](https://docs.compendium.finance/pendax/using-pendax-sdk/okx-functions) |
 | ![BitGet-PENDAX-TRADING-DEVELOPER](https://user-images.githubusercontent.com/36686278/205699916-169bf2eb-c731-44cb-b4ac-5e44a8b9b932.png) | [Bitget](https://partner.bitget.com/bg/gacm69031670266129840) | bitget | 🟢 Integrated | 🟢🟢🟢🟢🟢 | [View Documentation](https://docs.compendium.finance/pendax/using-pendax-sdk/bitget-functions) |
+| ![Blofin-PENDAX-TRADING-DEVELOPER](https://github.com/CompendiumFi/PENDAX-SDK/assets/36686278/3b0cd253-448b-40b1-9716-2db26c9cac2a) | [Blofin](https://partner.blofin.com/d/pendax) | blofin | 🟢 Integrated | 🟢🟢🟢🟢🟢 | [View Documentation](https://docs.compendium.finance/pendax/using-pendax-sdk/blofin-functions) |
 | ![Bybit-PENDAX-TRADING-DEVELOPER](https://user-images.githubusercontent.com/36686278/199347652-d196703c-103d-4060-b23d-7f4534e03057.png) | [ByBit](https://www.bybit.com/en-US/invite?ref=LPMYYV) | bybit | 🟢 Integrated | 🟢🟢🟢🟢🟢 | [View Documentation](https://docs.compendium.finance/pendax/using-pendax-sdk/bybit-functions) |
 | ![MEXC-PENDAX-TRADING-DEVELOPER](https://github.com/CompendiumFi/PENDAX-SDK/assets/36686278/8b42b17c-d331-4f34-9d7d-364d8dc74cae) | [MEXC](https://www.mexc.com/register?inviteCode=1QRLp) | mexc | 🟢 Integrated | 🟢🟢🟢🟢🟢 | [View Documentation](https://docs.compendium.finance/pendax/using-pendax-sdk/mexc-functions) |
+| ![phemex-PENDAX-TRADING-DEVELOPER](https://github.com/CompendiumFi/PENDAX-SDK/assets/36686278/3afd262e-5baf-441e-b784-bcc1d8206a1a) | [Phemex](https://phemex.com/account/referral/invite-friends-entry?referralCode=JWAPJ5) | phemex | 🟢 Integrated | 🟢🟢🟢🟢🟢 | [View Documentation](https://docs.compendium.finance/pendax/using-pendax-sdk/phemex-functions) |
+
+
 
 
 ### Integration Roadmap Includes: 
-Binance, Binance US, BitMex, Coinbase Pro, Crypto.com, Gate.io, Huobi, Kraken, Kucoin, MEXC, & More.
-
-### Inactive Exchanges
-Inactive exchanges are platforms that have been previously integrated but are now unscheduled for future development. We do not recommend utilizing any function integrations for these platforms. 
-| Logo | Exchange | PENDAX ID | Integration Status | Inactive Reason |
-| ---- | -------- | --------- | ------------------ | ------------------ |
-| ![FTX-PENDAX-TRADING-DEVELOPER](https://user-images.githubusercontent.com/36686278/199346046-b38a8ad5-2eb3-4e34-81ae-d191605166e6.png) | FTX International | ftx | 🔴 Deprecating | Insolvent Exchange |
-| ![FTXUS-PENDAX-TRADING-DEVELOPER](https://user-images.githubusercontent.com/36686278/199346914-63a92825-1668-4e9e-84b8-359f1e3b1f77.png) | FTX US | ftxus | 🔴 Deprecating | Insolvent Exchange |
-
+Binance, Binance US, BitMex, Coinbase Pro, Crypto.com, Gate.io, HTX, Kraken, Kucoin, & More.
 
 
 ## Features
